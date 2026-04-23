@@ -40,7 +40,7 @@ def style_base_layout():
             @import url('https://fonts.googleapis.com/css2?family=Climate+Crisis:YEAR@1979&family=Outfit:wght@100..900&family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
                 
             /* Hide Top Bar of streamlit */
-              
+            
                 #MainMenu,footer,header {
                     visibility:hidden;
                 }
@@ -69,7 +69,7 @@ def style_base_layout():
                 
                 button {
                     border-radius: 1.5rem !important;
-                    background: #5865F2 !important;
+                    background-color: #5865F2 !important;
                     color: white !important;
                     padding: 10px 20px !important;
                     border: none !important;
@@ -78,7 +78,7 @@ def style_base_layout():
                 
                 button[kind="secondary"] {
                     border-radius: 1.5rem !important;
-                    background: #EB459E !important;
+                    background-color: #EB459E !important;
                     color: white !important;
                     padding: 10px 20px !important;
                     border: none !important;
@@ -87,7 +87,7 @@ def style_base_layout():
                 
                 button[kind="tertiary"] {
                     border-radius: 1.5rem !important;
-                    background: black !important;
+                    background-color: black !important;
                     color: white !important;
                     padding: 10px 20px !important;
                     border: none !important;
