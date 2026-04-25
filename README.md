@@ -19,7 +19,7 @@ This is an AI-Powered Attendance System that uses face recognition to automate a
 <h3>Database</h3>
 <li>Supabase</li>
 <h3>Deployment</h3>
-<li>Vercel</li>
+<li>Streamlit</li>
 <h3>Development Tools</h3>
 <li>Visual Studio Code</li>
 <li>Git</li>
@@ -32,7 +32,7 @@ This is an AI-Powered Attendance System that uses face recognition to automate a
 <li>Attendance analytics and insights</li>
 <li>Continuous deployment on Vercel</li>
 <h2>Installation</h2>
-To run Zerodha Clone locally, follow these steps:
+To run SnapClass locally, follow these steps:
 
 <h3>1. Clone the repository:</h3>
 
@@ -48,7 +48,7 @@ To run Zerodha Clone locally, follow these steps:
     <code>cd SnapClass</code></pre>
 </div>
 
-<h3>3. Install the dependencies for both the frontend and backend:</h3>
+<h3>3. Install the dependencies:</h3>
 
 <div class="bg-light p-3 rounded border">
   <pre class="mb-0">
@@ -88,8 +88,8 @@ Once the application is running, you can:
 <h3><li>View Attendance Records:</h3> Check your attendance records.</li>
 
 <h2>Deployment</h2>
-SnapClass is deployed on Vercel. For deployment, ensure you have the Vercel CLI configured.
-Ensure your Vercel credentials and services are properly set up for deployment.
+SnapClass is deployed on Streamlit. For deployment, ensure you have the Streamlit CLI configured.
+Ensure your Streamlit credentials and services are properly set up for deployment.
 
 <h2>License</h2>
 All rights reserved.
