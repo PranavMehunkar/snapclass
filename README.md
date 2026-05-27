@@ -64,7 +64,7 @@ Create a .env file in the root directory and configure the following variables:
 </div>
 <div class="bg-light p-3 rounded border">
   <pre class="mb-0">
-    <code>SUPABASE_KEY</code></pre>
+    <code>SUPABASE_KEY=&lt;your_supabase_key&gt;</code></pre>
 </div>
 
 <h3>5. Run the development server:</h3>
